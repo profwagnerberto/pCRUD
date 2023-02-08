@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="/home/wagner/Documents/eclipse-jee-workspace/pCRUD/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="/home/wagner/Documents/eclipse-jee-workspace/pServletCriar/mysql-connector-j-8.0.32.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
